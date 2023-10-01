@@ -6,7 +6,7 @@ Passionate about turning data into actionable insights, I am a graduate student 
 
 • Proficient in data visualization tools such as Tableau and Power BI.
 
-• Experienced in data engineering with AWS cloud technologies (Kafka, Glue, SQL, Python).
+• AWS Certified Solutions Architect with experience in data engineering with AWS cloud technologies (Kafka, Glue, SQL, Python).
 
 • Currently working on my thesis which focuses on "Formalizing MLOps through (Mega)Modeling" for major cloud platforms like AWS, GCP, and Azure.
 
