@@ -1,16 +1,17 @@
-Hi, I’m Sai Sriyanka. 
+Passionate about turning data into actionable insights, I am a graduate student nearing the completion of a Master's in Data Science with a strong background in extracting, analyzing, and interpreting complex data sets.
 
-I have completed my Bachelor's in Computer Science and Engineering and I am pursuing Master's in Data Science at the University of Koblenz. After my Bachelor's, I worked as a Systems Engineer for a US-Based Retail Client at Infosys for 2 years. 
+• Actively seeking opportunities to leverage data for business growth.
 
+• Passionate about transforming complex data into actionable insights.
 
-My skills and interests include:
+• Proficient in data visualization tools such as Tableau and Power BI.
 
-• Being creative in cleaning, validating, and analyzing data to get useful insights from the data
+• Experienced in data engineering with AWS cloud technologies (Kafka, Glue, SQL, Python).
 
-• Experienced in using Python and R for Data Analysis
+• Currently working on my thesis which focuses on "Formalizing MLOps through (Mega)Modeling" for major cloud platforms like AWS, GCP, and Azure.
 
-• Worked with data using SQL to perform data-driven analysis and can effectively work with Excel, and Tableau for data visualizations
- 
-• Strong creative, investigative, and communicative skills and always being open to new challenges
+• Seeking opportunities to apply data engineering skills and collaborate on impactful projects.
 
-- 🌱 I’m currently learning pyspark and AWS cloud to further enhance my skills.
+• Strong team player with proficiency in English and working proficiency in German.
+
+🌱 I'm enthusiastic about the prospect of applying my skills and knowledge to drive meaningful initiatives within the Data Science domain. I thrive on tackling impactful projects and am always open to new collaborations.
