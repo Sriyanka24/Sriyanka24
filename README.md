@@ -2,9 +2,9 @@ Passionate about turning data into actionable insights, I am a graduate student 
 
 • Actively seeking opportunities to leverage data for business growth, apply data engineering skills and collaborate on impactful projects.
 
-• Passionate about transforming complex data into actionable insights.
+• Passionate about leveraging robust data engineering processes and cutting-edge technologies to transform complex data into actionable insights.
 
-• AWS Certified Solutions Architect with experience in data engineering with cloud technologies (Kafka, Glue, SQL, Python).
+• AWS Certified Solutions Architect with experience in data engineering with cloud technologies (Kafka, Scala, Glue, SQL, Python).
 
 • Currently working on my thesis which focuses on "Formalizing MLOps through (Mega)Modeling" for major cloud platforms like AWS, GCP, and Azure.
 
